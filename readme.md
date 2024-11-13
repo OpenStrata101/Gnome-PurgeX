@@ -75,6 +75,7 @@ sudo ./gnome_purgex.sh
     - Present a checklist of GNOME applications available for removal.
     - Allow you to select which applications you want to uninstall.
     - Log all removal actions to `/tmp/gnome_debloat.log`.
+    
 ---
 
 # Optional Arguments
