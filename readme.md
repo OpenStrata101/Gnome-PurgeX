@@ -57,7 +57,7 @@ cd GNOME-PurgeX
 
 2.Make the script executable:
 ```bash
-chmod +x gnome_purgex.sh
+chmod +x gpurgex.sh
 ```
 ---
 
@@ -65,17 +65,17 @@ chmod +x gnome_purgex.sh
 To run GNOME PurgeX, simply execute the script with `sudo` privileges:
 
 ```bash
-sudo ./gnome_purgex.sh
+sudo ./gpurgex.sh
 ```
 ---
 
 # Upon execution, GNOME PurgeX will:
 
-    - Identify the package manager on your system.
-    - Present a checklist of GNOME applications available for removal.
-    - Allow you to select which applications you want to uninstall.
-    - Log all removal actions to `/tmp/gnome_debloat.log`.
-    
+- Identify the package manager on your system. 
+- Present a checklist of GNOME applications available for removal.
+- Allow you to select which applications you want to uninstall.
+- Log all removal actions to `/tmp/gnome_debloat.log`.
+
 ---
 
 # Optional Arguments
@@ -112,7 +112,7 @@ Here’s a step-by-step example of GNOME PurgeX in action:
 Run the script:
 
 ```bash
-sudo ./gnomepurgex.sh
+sudo ./gpurgex.sh
 ```
 
 1.The script will detect your package manager and display the packages available for removal.
