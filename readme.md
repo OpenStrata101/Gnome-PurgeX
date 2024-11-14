@@ -86,7 +86,7 @@ Currently, GNOME PurgeX runs interactively. Future versions may include command-
 # Uninstallable Packages
 GNOME PurgeX can target the following pre-installed GNOME applications:
 
-- epiphany (Web browser)
+- `epiphany` (Web browser)
 - `gnome-software` (Software center)
 - `gnome-tour` (Introduction tour)
 - `gnome-text-editor` (Text editor)
