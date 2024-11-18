@@ -103,6 +103,14 @@ GNOME PurgeX can target the following pre-installed GNOME applications:
 - `gnome-clocks` (Clocks)
 - `gnome-user-docs` (User documentation)
 - `yelp` (GNOME help browser)
+- `gnome-logs` (Gnome Log Viewer)
+- `gnome-connections` (Gnome Remote Desktop Viewer)
+- `gnome-font-viewer` (Gnome Font Installer)
+- `vim` (Text Editor)
+- `simple-scan` (Document Scanner)
+- `Flatpak` (Package Manager)
+- `malcontent` (Flatpak Dependency)
+- `htop` (Resouce Monitor)
 
 ---
 

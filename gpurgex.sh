@@ -4,7 +4,8 @@
 GNOME_PACKAGES=(
   "epiphany" "gnome-software" "gnome-tour" "gnome-text-editor" "gnome-system-monitor"
   "snapshot" "totem" "gnome-music" "gnome-calculator" "gnome-calendar" "gnome-maps"
-  "gnome-weather" "gnome-contacts" "gnome-characters" "gnome-clocks" "gnome-user-docs" "yelp"
+  "gnome-weather" "gnome-contacts" "gnome-characters" "gnome-clocks" "gnome-user-docs" "yelp" "simple-scan"
+  "gnome-connections" "gnome-logs" "gnome-font-viewer" "vim" "flatpak" "malcontent" "htop"
 )
 
 # Color codes for styling
