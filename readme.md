@@ -51,7 +51,7 @@
 # Installation
 1.Download or clone the GNOME PurgeX script:
 ```bash
-git clone https://github.com/Openstrata101/Gnome-PurgeX.git
+git clone https://github.com/coder-0xffc/Gnome-PurgeX.git
 cd GNOME-PurgeX
 ```
 
